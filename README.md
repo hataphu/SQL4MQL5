@@ -1,5 +1,5 @@
 # SQL4MQL5
-Một thư viện để tương tác với SQL Server trong MQL5
+A library for interacting with SQL Server in MQL5
 
 # Creating an Expert Advisor in MQL5
 
