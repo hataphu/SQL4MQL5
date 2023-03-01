@@ -1,7 +1,7 @@
 # SQL4MQL5
 Một thư viện để tương tác với SQL Server trong MQL5
 
-#Creating an Expert Advisor in MQL5
+# Creating an Expert Advisor in MQL5
 
 Let us create a simple expert in MQL5. Its code can also be complied in the MQL4 editor, by changing the extension from "mq5" to "mq4". This expert is only for demonstrating the successful work with the database, so it will not perform any trading operations.
 
