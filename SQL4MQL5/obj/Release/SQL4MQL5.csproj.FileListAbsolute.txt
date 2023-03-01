@@ -1,0 +1,6 @@
+D:\RD\SQL4MQL5\SQL4MQL5\bin\Release\SQL4MQL5.dll
+D:\RD\SQL4MQL5\SQL4MQL5\bin\Release\SQL4MQL5.pdb
+D:\RD\SQL4MQL5\SQL4MQL5\obj\Release\SQL4MQL5.csproj.AssemblyReference.cache
+D:\RD\SQL4MQL5\SQL4MQL5\obj\Release\SQL4MQL5.csproj.CoreCompileInputs.cache
+D:\RD\SQL4MQL5\SQL4MQL5\obj\Release\SQL4MQL5.dll
+D:\RD\SQL4MQL5\SQL4MQL5\obj\Release\SQL4MQL5.pdb
