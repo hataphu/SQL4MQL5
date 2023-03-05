@@ -1,4 +1,4 @@
-# SQL4MQL5
+# SQL for MQL5
 A library for interacting with SQL Server in MQL5
 
 # Creating an Expert Advisor in MQL5
