@@ -1,4 +1,4 @@
-# SQL4MQL5
+# SQL for MQL5
 A library for interacting with SQL Server in MQL5
 
 # Creating an Expert Advisor in MQL5
@@ -59,7 +59,7 @@ Server=localhost\SQLEXPRESS;Database=master;Integrated Security=True
 Now let us add functionality to the draft expert. First, it is necessary to import the functions for working with the database from the created DLL. Add the import section before the OnInit function. The imported functions are described almost in the same way as they are declared in the C# code. It is only necessary to remove all the modifiers and attributes:
 ```
 // Description of the imported functions.
-#import "MqlSqlDemo.dll"
+#import "SQL4MQL5.dll"
 
 // Function for opening a connection:
 int CreateConnection(string sConnStr);
